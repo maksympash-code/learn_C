@@ -12,4 +12,5 @@ add_executable(learn_C main.c
         lesson_1_for_Gosha_Dudar/exersice_3.h
         lesson_1_for_Gosha_Dudar/exersice_4.c
         lesson_1_for_Gosha_Dudar/exersice_4.h
+        lesson_1_for_Begin_End/exersice_1.c
 )
