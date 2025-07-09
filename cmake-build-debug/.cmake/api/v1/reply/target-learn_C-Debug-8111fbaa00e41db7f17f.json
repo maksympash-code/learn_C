@@ -61,7 +61,10 @@
 				10,
 				11,
 				12,
-				13
+				13,
+				14,
+				15,
+				16
 			]
 		}
 	],
@@ -107,7 +110,10 @@
 				10,
 				11,
 				12,
-				13
+				13,
+				14,
+				15,
+				16
 			]
 		},
 		{
@@ -201,6 +207,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "lesson_2_for_Gosha_Dudar/exersice_1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lesson_3_for_Begin_End/exersice_1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lesson_3_for_Begin_End/exersice_2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lesson_3_for_Begin_End/exersice_3.c",
 			"sourceGroupIndex" : 0
 		}
 	],

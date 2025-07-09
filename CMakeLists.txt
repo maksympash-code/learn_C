@@ -17,4 +17,7 @@ add_executable(learn_C main.c
         lesson_2_for_Begin_End/HW_1/exersice_1.c
         lesson_2_for_Begin_End/HW_1/exersice_2.c
         lesson_2_for_Gosha_Dudar/exersice_1.c
+        lesson_3_for_Begin_End/exersice_1.c
+        lesson_3_for_Begin_End/exersice_2.c
+        lesson_3_for_Begin_End/exersice_3.c
 )
