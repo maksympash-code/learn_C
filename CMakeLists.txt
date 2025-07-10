@@ -23,4 +23,7 @@ add_executable(learn_C main.c
         lesson_4_for_Begin_End/exersice_1.c
         lesson_4_for_Begin_End/HW/exersice_1.c
         lesson_4_for_Begin_End/HW/exersice_2.c
+        lesson_5_for_Begin_End/exersice_1.c
+        lesson_5_for_Begin_End/HW/exersice_1.c
+        lesson_5_for_Begin_End/HW/exersice_2.c
 )

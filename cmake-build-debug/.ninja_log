@@ -5,8 +5,8 @@
 3	118	7734477285011277	CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exersice_2.c.obj	9cd6bf6ed96f0e76
 20	136	7734464874588657	CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exercise_1.c.obj	5d1be819f1036542
 7	223	7737839072010633	CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_2.c.obj	acb46c40ca1b01dd
-243	438	7737849173988792	learn_C.exe	ae09453075bc3f86
-1	267	7737850062091304	build.ninja	27578fde36e697b9
+233	435	7738482090641512	learn_C.exe	1001bb6a6c8f467e
+1	267	7738482395022995	build.ninja	27578fde36e697b9
 3	119	7735285008492178	CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exersice_4.c.obj	b322accf7ea530cc
 4	120	7737039332760743	CMakeFiles/learn_C.dir/lesson_2_for_Begin_End/HW_1/exersice_1.c.obj	3df3afad3d12f9d2
 4	125	7737038859779267	CMakeFiles/learn_C.dir/lesson_2_for_Begin_End/exersice_1.c.obj	38ff11d626b98911
@@ -15,7 +15,7 @@
 7	217	7737838110211386	CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_1.c.obj	c5ca2999c859c890
 6	230	7737841168952385	CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_3.c.obj	5cdae68b32d0fe90
 9	233	7737848230219870	CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/exersice_1.c.obj	e1b91deb426c8f1
-9	242	7737849171648955	CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/HW/exersice_1.c.obj	f8a83c15097685d5
 10	229	7737851502865902	CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/HW/exersice_1.c.obj	f8a83c15097685d5
-33	279	7737851503087520	CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/HW/exersice_2.c.obj	a1691bc48594203e
-280	484	7737851505556207	learn_C.exe	29f33592fe33761a
+7	234	7738469199849702	CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/HW/exersice_2.c.obj	a1691bc48594203e
+7	235	7738481757469666	CMakeFiles/learn_C.dir/lesson_5_for_Begin_End/exersice_1.c.obj	d26baffaabd811f2
+8	232	7738482088390252	CMakeFiles/learn_C.dir/lesson_5_for_Begin_End/HW/exersice_1.c.obj	8fa7fa08973a6188
