@@ -181,6 +181,18 @@ build CMakeFiles/learn_C.dir/lesson_6_for_Begin_End/HW/exersice_2.c.obj: C_COMPI
   OBJECT_DIR = CMakeFiles\learn_C.dir
   OBJECT_FILE_DIR = CMakeFiles\learn_C.dir\lesson_6_for_Begin_End\HW
 
+build CMakeFiles/learn_C.dir/lesson_3_for_Gosha_Dudar/exercise_1.c.obj: C_COMPILER__learn_C_unscanned_Debug C$:/Users/maksy/CLionProjects/learn_C/lesson_3_for_Gosha_Dudar/exercise_1.c || cmake_object_order_depends_target_learn_C
+  DEP_FILE = CMakeFiles\learn_C.dir\lesson_3_for_Gosha_Dudar\exercise_1.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\learn_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\learn_C.dir\lesson_3_for_Gosha_Dudar
+
+build CMakeFiles/learn_C.dir/lesson_3_for_Gosha_Dudar/exercise_2.c.obj: C_COMPILER__learn_C_unscanned_Debug C$:/Users/maksy/CLionProjects/learn_C/lesson_3_for_Gosha_Dudar/exercise_2.c || cmake_object_order_depends_target_learn_C
+  DEP_FILE = CMakeFiles\learn_C.dir\lesson_3_for_Gosha_Dudar\exercise_2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\learn_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\learn_C.dir\lesson_3_for_Gosha_Dudar
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target learn_C
@@ -189,7 +201,7 @@ build CMakeFiles/learn_C.dir/lesson_6_for_Begin_End/HW/exersice_2.c.obj: C_COMPI
 #############################################
 # Link the executable learn_C.exe
 
-build learn_C.exe: C_EXECUTABLE_LINKER__learn_C_Debug CMakeFiles/learn_C.dir/main.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exercise_1.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exersice_3.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exersice_4.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_2_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_2_for_Begin_End/HW_1/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_2_for_Begin_End/HW_1/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_2_for_Gosha_Dudar/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_3.c.obj CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/HW/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/HW/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_5_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_5_for_Begin_End/HW/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_5_for_Begin_End/HW/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_6_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_6_for_Begin_End/HW/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_6_for_Begin_End/HW/exersice_2.c.obj
+build learn_C.exe: C_EXECUTABLE_LINKER__learn_C_Debug CMakeFiles/learn_C.dir/main.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exercise_1.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exersice_3.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Gosha_Dudar/exersice_4.c.obj CMakeFiles/learn_C.dir/lesson_1_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_2_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_2_for_Begin_End/HW_1/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_2_for_Begin_End/HW_1/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_2_for_Gosha_Dudar/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_3_for_Begin_End/exersice_3.c.obj CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/HW/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_4_for_Begin_End/HW/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_5_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_5_for_Begin_End/HW/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_5_for_Begin_End/HW/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_6_for_Begin_End/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_6_for_Begin_End/HW/exersice_1.c.obj CMakeFiles/learn_C.dir/lesson_6_for_Begin_End/HW/exersice_2.c.obj CMakeFiles/learn_C.dir/lesson_3_for_Gosha_Dudar/exercise_1.c.obj CMakeFiles/learn_C.dir/lesson_3_for_Gosha_Dudar/exercise_2.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\learn_C.dir
