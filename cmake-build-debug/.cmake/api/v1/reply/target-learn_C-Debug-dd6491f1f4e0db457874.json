@@ -77,7 +77,8 @@
 				26,
 				27,
 				28,
-				29
+				29,
+				30
 			]
 		}
 	],
@@ -139,7 +140,8 @@
 				26,
 				27,
 				28,
-				29
+				29,
+				30
 			]
 		},
 		{
@@ -149,7 +151,8 @@
 				2,
 				4,
 				6,
-				8
+				8,
+				31
 			]
 		}
 	],
@@ -330,6 +333,17 @@
 			"compileGroupIndex" : 0,
 			"path" : "lesson_4_for_Gosha_Dudar/exercise_2.c",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lesson_5_for_Gosha_Dudar/exercise_1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lesson_5_for_Gosha_Dudar/functions.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"

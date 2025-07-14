@@ -33,4 +33,6 @@ add_executable(learn_C main.c
         lesson_3_for_Gosha_Dudar/exercise_2.c
         lesson_4_for_Gosha_Dudar/exercise_1.c
         lesson_4_for_Gosha_Dudar/exercise_2.c
+        lesson_5_for_Gosha_Dudar/exercise_1.c
+        lesson_5_for_Gosha_Dudar/functions.h
 )
