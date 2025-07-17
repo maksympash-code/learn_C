@@ -86,7 +86,8 @@
 				36,
 				37,
 				38,
-				39
+				39,
+				40
 			]
 		}
 	],
@@ -157,7 +158,8 @@
 				36,
 				37,
 				38,
-				39
+				39,
+				40
 			]
 		},
 		{
@@ -407,6 +409,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "lesson_9_for_Begin_End/exercise_1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lesson_6_for_Gosha_Dudar/exercise_1.c",
 			"sourceGroupIndex" : 0
 		}
 	],
