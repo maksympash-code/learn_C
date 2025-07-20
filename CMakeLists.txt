@@ -46,4 +46,5 @@ add_executable(learn_C main.c
         lesson_6_for_Gosha_Dudar/exercise_1.c
         lesson_9_for_Begin_End/HW/exersice_1.c
         lesson_9_for_Begin_End/HW/exercise_2.c
+        lesson_10_for_Begin_End/exercise_1.c
 )
