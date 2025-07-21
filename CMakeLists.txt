@@ -56,4 +56,6 @@ add_executable(learn_C main.c
         lesson_12_for_Begin_End/HW/exercise_1.c
         lesson_12_for_Begin_End/HW/exercise_2.c
         lesson_13_for_Begin_End/exercise_1.c
+        lesson_13_for_Begin_End/HW/exercise_1.c
+        lesson_13_for_Begin_End/HW/exercise_2.c
 )
